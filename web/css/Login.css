@@ -1,0 +1,23 @@
+body{
+    background-image: url(assets/images/choosing-bg\ copy.jpg);
+    background-size: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+    position: relative;
+    .divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #fffdfd;
+}
+.h-custom {
+height: calc(110% - 150px);
+}
+
+.h-custom {
+height: 100%;
+}
+}
+
